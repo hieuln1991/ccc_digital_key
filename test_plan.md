@@ -1,4 +1,4 @@
-# CarMaker Digital Key Test Plan
+# CarMaker Digital Key E2E Test Plan
 
 ## Version: 1.0  
 **Date:** [Insert Date]  
