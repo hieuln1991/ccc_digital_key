@@ -99,3 +99,9 @@ This test plan covers:
 
 ## 8. Conclusion  
 This test plan ensures that the **CarMaker Digital Key** meets all functional, security, and performance standards, aligning with CCC Digital Key specifications. The test results will validate the **interoperability and reliability** of CarMaker's digital key implementation before market release.
+
+## 9. Reference
+https://www.rohde-schwarz.taipei/data/activity/file/1714113334042324007.pdf (Digital Key Certification Test Introduction)
+https://www.press.bmwgroup.com/global/article/attachment/T0309827EN/452955 (BMW Digital Key)
+https://www.commoncriteriaportal.org/files/ppfiles/pp0119b_pdf.pdf (Car Connectivity Consortium CCC Digital Key spec)
+https://www.st.com/content/dam/ces22/pdf/CES2022_Digital_Key.pdf 
